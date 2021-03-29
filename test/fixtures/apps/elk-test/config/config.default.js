@@ -3,8 +3,8 @@
 exports.keys = '123456';
 
 exports.elk = {
-  host: '10.136.208.188',
-  port: 5044,
+  host: '127.0.0.1',
+  port: 80,
   logType: 'eggElkLogType',
   fields: {
     tag: 'kurt',
